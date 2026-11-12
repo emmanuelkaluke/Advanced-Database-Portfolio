@@ -89,7 +89,7 @@ Overall, the exercise improved my understanding of query execution plans, indexi
 
 The following screenshots are included in the evidence folder:
 
-1. `execution-plan-before-index.png` – execution plan before indexing.
-2. `execution-plan-after-index.png` – execution plan after indexing.
+1. `Eke_Emmanuel_301924454_execution_plan_before_index.png` – execution plan before indexing.
+2. `Eke_Emmanuel_301924454_execution_plan_after_index.png` – execution plan after indexing.
 
 Additional screenshots of query results and index verification will be included where applicable.

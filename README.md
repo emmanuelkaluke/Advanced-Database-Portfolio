@@ -34,7 +34,7 @@ The following tools were used during the project:
 The project is divided into five activities, with each one focusing on a different area of database management.
 
 ### Portfolio 1 – Database Design and Modelling
-Folder: `portfolio-1-database-design`
+Folder: `Eke_Emmanuel_301924454_DatabaseDesign`
 
 This was where I started building the FlexPay database. I identified the main information the company would need to store and organised it into three related tables: customers, accounts and transactions.
 
@@ -47,7 +47,7 @@ The work covered:
 - Normalising the database up to Third Normal Form (3NF).
 
 ### Portfolio 2 – Query Processing and Optimisation
-Folder: `portfolio-2-query-optimisation`
+Folder: `Eke_Emmanuel_301924454_QueryOptimisation`
 
 In this activity, I worked with SQL queries to retrieve and analyse information from the FlexPay database.
 
@@ -58,7 +58,7 @@ One of the practical exercises involved comparing a query before and after creat
 The execution time decreased from 2.593 ms to 1.354 ms after the index was created. This helped me understand how indexing can make data retrieval more efficient.
 
 ### Portfolio 3 – Transactions and Concurrency
-Folder: `portfolio-3-transactions-concurrency`
+Folder: `Eke_Emmanuel_301924454_TransactionsConcurrency`
 
 This activity focused on how databases handle operations that need to be completed reliably, especially in a financial environment.
 
@@ -74,7 +74,7 @@ The exercises included:
 The concurrency exercise helped me understand why transaction control is important when multiple users or processes try to access the same account.
 
 ### Portfolio 4 – NoSQL and Advanced Data Models
-Folder: `portfolio-4-nosql`
+Folder: `Eke_Emmanuel_301924454_NoSQL`
 
 For this activity, I worked with MongoDB Atlas to explore how a NoSQL database stores and manages information.
 
@@ -91,7 +91,7 @@ The practical work included:
 This exercise helped me understand where a NoSQL database can be useful alongside a traditional relational database.
 
 ### Portfolio 5 – Distributed and Cloud Database Exercise
-Folder: `portfolio-5-distributed-cloud`
+Folder: `Eke_Emmanuel_301924454_DistributedCloud`
 
 The final activity focused on distributed databases and cloud-based database services.
 
@@ -137,7 +137,7 @@ After installing PostgreSQL, create a database named `flexpay_db` and execute th
 For example:
 
 ```bash
-psql -d flexpay_db -f portfolio-1-database-design/schema.sql
+psql -d flexpay_db -f Eke_Emmanuel_301924454_DatabaseDesign/Eke_Emmanuel_301924454_schema.sql
 ```
 
 The schema script creates the database tables. It should not be executed again against a database where those tables already exist.
